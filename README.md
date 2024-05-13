@@ -9,8 +9,3 @@ Within this section, you'll find a series of hands-on labs and exercises careful
 By engaging with these labs, you'll gain proficiency in managing and editing pipelines, mastering key features, and honing your troubleshooting skills. Whether it's parsing, routing, transforming, or enriching data, each practice is designed to equip you with the essential knowledge and techniques needed to excel in Cribl LogStream.
 
 Whether you're looking to enhance your existing skills or embark on a new journey with Cribl, this section provides a valuable resource to accelerate your learning and development. So, dive in, explore, and empower yourself to unleash the full potential of Cribl LogStream!
-
-Here's a guide on how to play with the labs:
-1) Sign up for a Cribl.Cloud Account: If you haven't already done so, navigate to https://manage.cribl.cloud/ and sign up for a new account. Follow the registration process to create your account.
-
-System Integration - SOC as a Service Platform > Cribl Practices > image-2024-5-13_15-14-57.pngSystem Integration - SOC as a Service Platform > Cribl Practices > image-2024-5-13_15-18-27.png
